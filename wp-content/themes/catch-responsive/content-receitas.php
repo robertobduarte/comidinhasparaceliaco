@@ -37,7 +37,6 @@
 					
 				<?php endif; ?>
 			</header><!-- .entry-header -->
-				<button class="botaoclasse" id='btncliqueid-<?php the_ID(); ?>' role="button">clique aqui</button>
 			<?php
 			$options = catchresponsive_get_theme_options();
 
